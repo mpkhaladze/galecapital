@@ -1454,3 +1454,9 @@ header.navbar-fixed-top .langs_wrapper a{
 
 }
 /*# sourceMappingURL=style.css.map */
+.custom-contact-text, .contact_number_style, .email_contact_wrapper {
+    color: #fff;
+}
+#fh5co-header #navbar li a {
+    color: #fff ;
+}
