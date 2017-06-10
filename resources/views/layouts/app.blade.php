@@ -215,7 +215,6 @@
                 $('#sum_price_calc5').text($('#num_of_mkv5').text()*$('#price_of_mkv5').text());
             });
         </script>
-        <script src="https://maps.googleapis.com/maps/api/js" async defer></script>
         <script >
 
             function initMap() {
