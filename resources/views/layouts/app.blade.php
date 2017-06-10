@@ -252,6 +252,6 @@
                 });
             });
         </script>
-        <script src="https://maps.googleapis.com/maps/api/js?callback=initMap" async defer></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD6NGTLx5ImlMVEXFUKBcgOgTbQfPEvzuw&callback=initMap" type="text/javascript"></script>
 </body>
 </html>
