@@ -5,7 +5,7 @@
                 <!-- You may change the background color here.  -->
                 <div class="item purple-background" style="height: 100vh; position:relative;">
                     <div class="main_text_for_home saving">
-                            მშენებლობა და ინვესტირება გონივრულ დროსა და სივრცეში ...
+                            მშენებლობა და ინვესტირება გონივრულ დროსა და სივრცეში
                         <span>.</span><span>.</span><span>.</span>
                     </div>
                     <div class="social_links_wrapper text-center">
@@ -65,7 +65,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 section-heading text-center">
-                        <h2 class="to-animate">მიმდინარე საკითხები </h2>
+                        <h2 class="to-animate"> წინადადებები </h2>
                     </div>
                 </div>
                 <div class="row">
