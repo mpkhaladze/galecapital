@@ -127,11 +127,10 @@
                         შპს გალე კაპიტალი, ვაჟა ფშაველას გამზ. 41, თბილისი 0177, საქართველო.
                     </h1>
                     <h1 class="custom-contact-text">
-                        <i class="glyphicon glyphicon-envelope">
-                        </i>
-                        <span>
-                            galecomge@gmail.com
-                        </span>
+                        <a href="mailto:galecomge@gmail.com" class="gmail">
+                            <i class="glyphicon glyphicon-envelope"></i>
+                        </a>
+                        <span> galecomge@gmail.com</span>
                     </h1>
                 </div>
                 <div class="col-sm-6">

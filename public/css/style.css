@@ -1460,3 +1460,11 @@ header.navbar-fixed-top .langs_wrapper a{
 #fh5co-header #navbar li a {
     color: #fff ;
 }
+.gmail{
+    color: inherit;
+    text-decoration: none;
+}
+.gmail:hover{
+    color: inherit;
+    text-decoration: none;
+}
