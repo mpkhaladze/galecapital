@@ -10,8 +10,7 @@
 | and give it the controller to call when that URI is requested.
 |
 */
-Route::get('/',"HomeController@index");
-Route::get('/{lang}',"HomeController@index");
+Route::get('/',"SiteController@index");
 Route::get('/development',function(){
     return "Development!";
 });

@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.master')
 @section('content')
     <div id="slider" data-section="home">
             <div class="owl-carousel-fullwidth">
