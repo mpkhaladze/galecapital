@@ -131,8 +131,8 @@
                             <span>მ</span><sup>2</sup>
                         </h2>
                         <div class="price">
-                            <sup class="currency">$</sup>
-                            <span id="price_of_mkv2">189</span>
+                            <sup class="currency"><i class="lari lari-normal"></i></sup>
+                            <span id="price_of_mkv2">460</span>
                             <small>
                                 <span>/ მ</span><sup>2</sup>
                                 <span>-დან</span>
@@ -149,7 +149,7 @@
                         <hr/>
                         <ul class="pricing-info">
                             <li>
-                                სულ ფასი: $
+                                სულ ფასი: <i class="lari lari-normal"></i>
                                 <span id="sum_price_calc2"></span>
                                 <span>-დან</span>
                             </li>
@@ -165,12 +165,8 @@
                             <span>მ</span><sup>2</sup>
                         </h2>
                         <div class="price">
-                            <sup class="currency">
-                                $
-                            </sup>
-                            <span id="price_of_mkv3">
-                                229
-                            </span>
+                            <sup class="currency"><i class="lari lari-normal"></i></sup>
+                            <span id="price_of_mkv3">560</span>
                             <small>
                                 / მ
                                 <sup>2</sup>              
@@ -187,7 +183,7 @@
                         </ul>
                         <hr/>
                         <ul class="pricing-info">
-                            <li>სულ ფასი: $
+                            <li>სულ ფასი: <i class="lari lari-normal"></i>
                                 <span id="sum_price_calc3"></span>
                                 <span>-დან</span>
                             </li>
@@ -204,10 +200,8 @@
                             <span>მ</span><sup>2</sup>
                         </h2>
                         <div class="price">
-                            <sup class="currency">
-                                $
-                            </sup>
-                            <span id="price_of_mkv4">299</span>
+                            <sup class="currency"><i class="lari lari-normal"></i></sup>
+                            <span id="price_of_mkv4">760</span>
                             <small>
                                 <span>/ მ</span><sup>2 </sup>
                                 <span>-დან</span>
@@ -223,7 +217,7 @@
                         </ul>
                         <hr/>
                         <ul class="pricing-info">
-                            <li> სულ ფასი: $
+                            <li> სულ ფასი: <i class="lari lari-normal"></i>
                                 <span id="sum_price_calc4"></span>
                                 <span>-დან</span>
                             </li>
@@ -240,10 +234,8 @@
                             <span>მ</span><sup>2</sup>
                         </h2>
                         <div class="price">
-                            <sup class="currency">
-                                $
-                            </sup>
-                            <span id="price_of_mkv5">349</span>
+                            <sup class="currency"><i class="lari lari-normal"></i></sup>
+                            <span id="price_of_mkv5">860</span>
                             <small> / მ
                                 <sup>2</sup>
                                 <span>-დან</span>
@@ -259,7 +251,7 @@
                         </ul>
                         <hr/>
                         <ul class="pricing-info">
-                            <li>სულ ფასი: $
+                            <li>სულ ფასი: <i class="lari lari-normal"></i>
                                 <span id="sum_price_calc5"></span>
                                 <span>-დან</span>
                             </li>

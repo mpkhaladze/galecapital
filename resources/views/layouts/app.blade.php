@@ -28,6 +28,7 @@
     <link rel="stylesheet" href="{{ asset('css/animate.css') }}"/>
     <!-- Icomoon Icon Fonts-->
     <link rel="stylesheet" href="{{ asset('css/icomoon.css') }}"/>
+    <link rel="stylesheet" href="{{ asset('css/font-larisome.min.css') }}"/>
     <!-- Simple Line Icons -->
     <link rel="stylesheet" href="{{ asset('css/simple-line-icons.css') }}"/>
     <!-- Owl Carousel -->
