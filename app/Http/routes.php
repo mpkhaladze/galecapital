@@ -11,6 +11,8 @@
 |
 */
 Route::get('/',"SiteController@index");
-Route::get('/development',function(){
-    return "Development!";
-});
+
+Route::auth();
+
+Route::get('/admin', 'AdminController@index');
+Route::put('/admin/update/{id}', 'AdminController@update');

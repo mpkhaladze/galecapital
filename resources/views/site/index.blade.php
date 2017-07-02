@@ -132,7 +132,7 @@
                         </h2>
                         <div class="price">
                             <sup class="currency"><i class="lari lari-normal"></i></sup>
-                            <span id="price_of_mkv2">460</span>
+                            <span id="price_of_mkv2">{{$prices[0]->black_home}}</span>
                             <small>
                                 <span>/ მ</span><sup>2</sup>
                                 <span>-დან</span>
@@ -166,7 +166,7 @@
                         </h2>
                         <div class="price">
                             <sup class="currency"><i class="lari lari-normal"></i></sup>
-                            <span id="price_of_mkv3">560</span>
+                            <span id="price_of_mkv3">{{$prices[0]->white_home}}</span>
                             <small>
                                 / მ
                                 <sup>2</sup>              
@@ -201,7 +201,7 @@
                         </h2>
                         <div class="price">
                             <sup class="currency"><i class="lari lari-normal"></i></sup>
-                            <span id="price_of_mkv4">760</span>
+                            <span id="price_of_mkv4">{{$prices[0]->black_comercial}}</span>
                             <small>
                                 <span>/ მ</span><sup>2 </sup>
                                 <span>-დან</span>
@@ -235,7 +235,7 @@
                         </h2>
                         <div class="price">
                             <sup class="currency"><i class="lari lari-normal"></i></sup>
-                            <span id="price_of_mkv5">860</span>
+                            <span id="price_of_mkv5">{{$prices[0]->white_comercial}}</span>
                             <small> / მ
                                 <sup>2</sup>
                                 <span>-დან</span>

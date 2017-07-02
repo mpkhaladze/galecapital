@@ -29,4 +29,23 @@ class PasswordController extends Controller
     {
         $this->middleware('guest');
     }
+
+
+    protected function showResetForm()
+    {
+        return redirect()->guest('login');
+    }
+
+    protected function reset()
+    {
+        return redirect()->guest('login');
+    }
+
+    protected function sendResetLinkEmail()
+    {
+        return redirect()->guest('login');
+    }
+
+
+
 }
