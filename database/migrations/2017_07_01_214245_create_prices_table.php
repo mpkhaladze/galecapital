@@ -29,6 +29,6 @@ class CreatePricesTable extends Migration
      */
     public function down()
     {
-        Schema::drop('price');
+        Schema::drop('prices');
     }
 }
