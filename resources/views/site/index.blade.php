@@ -8,23 +8,7 @@
                             მშენებლობა და ინვესტირება გონივრულ დროსა და სივრცეში
                         <span>.</span><span>.</span><span>.</span>
                     </div>
-                    <div class="social_links_wrapper text-center">
-                        <ul class="social social-circle">
-                            <li><a href="#"><i class="icon-twitter"></i></a></li>
-                            <li>
-                                <a href="https://www.facebook.com/galecomge">
-                                    <i class="icon-facebook">
-                                    </i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="icon-youtube"></i>
-                                </a>
-                            </li>
-                            <li><a href="#"><i class="icon-linkedin"></i></a></li>
-                        </ul>
-                    </div>
+                    
                 </div>
             </div>
         </div>

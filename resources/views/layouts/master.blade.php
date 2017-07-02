@@ -175,20 +175,12 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <ul class="social social-circle">
-                            <li><a href="#"><i class="icon-twitter"></i></a></li>
                             <li>
                                 <a href="https://www.facebook.com/galecomge">
                                     <i class="icon-facebook">
                                     </i>
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://www.youtube.com/channel/UCkddkl-CXiubFkj0at9-FYA">
-                                    <i class="icon-youtube">
-                                    </i>
-                                </a>
-                            </li>
-                            <li><a href="#"><i class="icon-linkedin"></i></a></li>
                         </ul>
                     </div>
                 </div>
