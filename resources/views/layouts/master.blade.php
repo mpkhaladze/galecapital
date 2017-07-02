@@ -250,7 +250,7 @@
           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
           })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-          ga('create', 'UA-100796999-1', 'auto');
+          ga('create', 'UA-101971096-1', 'auto');
           ga('send', 'pageview');
 
         </script>
